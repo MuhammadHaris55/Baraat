@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156778480076",
+    "project_id": "baratapp1",
+    "storage_bucket": "baratapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156778480076:android:5665576a9a0c255076dd69",
+        "android_client_info": {
+          "package_name": "com.webconsultants.barat.barat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156778480076-qmeuhnsdeq8pjfru64eeevds754pihjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webconsultants.barat.barat",
+            "certificate_hash": "8cc4279213e943e509cc2014dea02d374a452c06"
+          }
+        },
+        {
+          "client_id": "156778480076-6m7b9ppg72hdukmmmks4ltqlr9dbr5m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAfIN7bTDkf65pFXDisxHJ2MrsUjgbvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156778480076-6m7b9ppg72hdukmmmks4ltqlr9dbr5m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
